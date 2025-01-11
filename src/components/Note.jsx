@@ -7,6 +7,6 @@ function Note() {
             <p>This is the content</p>
         </div>
     );
-}
+};
 
 export default Note;

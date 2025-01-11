@@ -11,6 +11,6 @@ function App() {
             <Note />
         </div>
     );
-}
+};
 
 export default App;
